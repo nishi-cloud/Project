@@ -18,12 +18,12 @@
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<p align="center">I am Ravi Kant, currently working as a Linux and AWS Administrator at Mobzway Technology LLP, with 1 year and 6 months of experience. My expertise includes Linux, AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, NGINX, MongoDB, and Redis, Nagios.</p>
+<p align="center">I am Nishu Gupta, currently working as a Linux and AWS Administrator at Mobzway Technology LLP, with 3.7 year and 6 months of experience. My expertise includes Linux, AWS, Docker, Kubernetes, Jenkins, Ansible, Terraform, NGINX, MongoDB, and Redis, Nagios.</p>
 
 ### <p align="center">My Technical Skills</p>
 
 <p align="center">
-  <a href="https://app.netlify.com/teams/nishi-cloud/sites">
+  <a href="https://app.netlify.com/teams/ravikant-85/sites">
     <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
   </a>
 </p>
@@ -59,12 +59,12 @@
 
 ## Latest Blog Posts  
 
-<a href="https://medium.com/@nishugupta805"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+<a href="https://medium.com/@ravikantmathur8595"><img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <!-- BLOG-POST-LIST:START -->
-- [How Industries are Solving challenges using Ansible?](https://medium.com/@nishugupta/how-industries-are-solving-challenges-using-ansible-53c951ce105)
-- [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@nishugupta/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
-- [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@nishugupta8052/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
+- [How Industries are Solving challenges using Ansible?](https://medium.com/@ravikant123/how-industries-are-solving-challenges-using-ansible-53c951ce105)
+- [How is Kubernetes used in industries, and what use cases are solved by Kubernetes?](https://medium.com/@ravikant123/how-is-kubernetes-used-in-industries-and-what-use-cases-are-solved-by-kubernetes-1692ba4b13cc)
+- [Mapping Industry Landscapes: A Comprehensive Study on Jenkins Adoption Across Companies!](https://medium.com/@ravikant123/mapping-industry-landscapes-a-comprehensive-study-on-jenkins-adoption-across-companies-bcfafb4e91d)
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -93,7 +93,7 @@
 <br>
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishugupta-85&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="nishi-cloud" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravikant-85&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="ravikant-85" />
 
 </details>                     
 <br>
@@ -146,27 +146,27 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishugupta-85&theme=dark&hide_border=true"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-85&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
 </p>
 
 # Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishugupta-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="nishi-cloud" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="nishi-cloud" /></p>
 
 <p align="left"><img
-                src="https://github-readme-stats.vercel.app/api?username=nishi-cloud&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
+                src="https://github-readme-stats.vercel.app/api?username=ravikant85&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
                 alt="nishi-cloud" height="170" /></p>
 
-<img src="https://img.shields.io/github/followers/nishi-cloud.svg?style=social&amp;label=Follow"
+<img src="https://img.shields.io/github/followers/ravikant-85.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" /> 
 <br>      
 <details>
   
 <p align="center">
   <a href="https://github.com/nishi-cloud">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihi-cloud&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikant-85&theme=transparent" />
   </a>
   <a href="https://github.com/nishi-cloud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-85&hide_border=true&card_width=338&theme=transparent" />
