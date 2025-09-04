@@ -7,11 +7,11 @@
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fravikant123%2Fravikant123&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <!--<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fravikant123%2Fravikant123&label=VISITORS&labelColor=%23000&countColor=%230A0209" />-->
   <br><br>
-  <a href="https://www.linkedin.com/in/ravi-kant-53967b204/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:ravikantmathur8595@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://x.com/KantRavi55911"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="KantRavi55911" ></a>
+  <a href="https://www.linkedin.com/in/nishu-gupta-94bb12228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:nishugupta8052@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <!--<a href="https://x.com/KantRavi55911"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="KantRavi55911" ></a> -->
 </div>
 <br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -39,7 +39,7 @@
 
 <i>&nbsp; Work with Optimism, Hope for the Best!</i><br><br>
 
-👋 Greetings! I'm Ravi Kant, a passionate DevOps Engineer with a strong background in Linux, AWS, and cloud technologies.
+👋 Greetings! I'm Nishu Gupta, a passionate DevOps Engineer with a good background in Linux, AWS, and cloud technologies.
 
 🚀 I specialize in automating infrastructure, managing CI/CD pipelines, and ensuring high availability of systems using tools like Docker, Kubernetes, Jenkins, Ansible, and Terraform.
 
@@ -134,12 +134,12 @@
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ravi-kant-53967b204/"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
+  <a href="https://www.linkedin.com/in/nishu-gupta-94bb12228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-0A0209?style=for-the-badge&logo=linkedin&logoColor=d5d5d5" /></a>
   <br>
-  <a href="https://medium.com/@ravikantmathur8595"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a>
-  <a href="https://x.com/KantRavi55911"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> 
+  <!--<a href="https://medium.com/@ravikantmathur8595"><img src="https://img.shields.io/badge/-medium-d5d5d5?style=for-the-badge&logo=LeetCode&logoColor=0A0209"/></a> -->
+  <!--<a href="https://x.com/KantRavi55911"><img src="https://img.shields.io/badge/twitter-0A0209?style=for-the-badge&logo=twitter&logoColor=d5d5d5" /></a> -->
   <br>
-  <a href="mailto:ravikantmathur8595@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="mailto:nishugupta8052@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
 </div>
 
 <hr>
@@ -153,11 +153,11 @@
 
 # Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="ravikant-85" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant-85&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="nishi-cloud" /></p>
 
 <p align="left"><img
                 src="https://github-readme-stats.vercel.app/api?username=ravikant85&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219"
-                alt="ravikant-85" height="170" /></p>
+                alt="nishi-cloud" height="170" /></p>
 
 <img src="https://img.shields.io/github/followers/ravikant-85.svg?style=social&amp;label=Follow"
         style="max-width: 100%;" /> 
@@ -165,16 +165,16 @@
 <details>
   
 <p align="center">
-  <a href="https://github.com/ravikant-85">
+  <a href="https://github.com/nishi-cloud">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravikant-85&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant-85">
+  <a href="https://github.com/nishi-cloud">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant-85&hide_border=true&card_width=338&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant-85">
+  <a href="https://github.com/nishi-cloud">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ravikant-85&theme=transparent" />
   </a>
-  <a href="https://github.com/ravikant-85">
+  <a href="https://github.com/nishi-cloud">
 
 </details>
 <br><br>
